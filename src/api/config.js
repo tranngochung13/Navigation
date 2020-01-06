@@ -1,0 +1,1 @@
+export const URL_API = 'https://csm-api-staging.enouvo.com/api/v1';
